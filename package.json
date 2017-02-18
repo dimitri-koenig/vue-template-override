@@ -1,0 +1,25 @@
+{
+  "name": "vue-template-override",
+  "version": "1.0.0",
+  "description": "Vue.js plugin which provides an override feature of compiled templates via x-templates Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitri-koenig/vue-template-override.git"
+  },
+  "keywords": [
+    "vue",
+    "javascript",
+    "template",
+    "override"
+  ],
+  "author": "Dimitri König <dimitri@dimitrikoenig.net> (https://www.dimitrikoenig.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitri-koenig/vue-template-override/issues"
+  },
+  "homepage": "https://github.com/dimitri-koenig/vue-template-override#readme"
+}
